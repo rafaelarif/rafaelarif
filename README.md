@@ -24,5 +24,3 @@ I am a **Software Engineering** graduate from the **University of Ottawa** with 
 ---
 ### Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaelarif)
-
----
