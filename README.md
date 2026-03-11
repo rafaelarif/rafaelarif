@@ -3,8 +3,6 @@
 ### About Me
 I am a **Software Engineering** graduate from the **University of Ottawa** with a passion for building scalable cloud infrastructure and high-performance full-stack applications. I thrive at the intersection of **DevOps**, **Automated Testing**, and **Modern Web Development**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaelarif)
-
 ---
 
 ### Tech Stack
@@ -25,7 +23,6 @@ I am a **Software Engineering** graduate from the **University of Ottawa** with 
 
 ---
 ### Let's Connect!
-* **Email**: rafael.arif@outlook.com
-* **LinkedIn**: linkedin.com/in/rafaelarif
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaelarif)
 
 ---
